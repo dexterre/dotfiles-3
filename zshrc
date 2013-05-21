@@ -1,6 +1,8 @@
 # load our own completion functions
 # fpath=(~/.zsh/completion $fpath)
 
+export TERM='xterm-256color'
+
 # automatically enter directories without cd
 setopt auto_cd
 
