@@ -14,6 +14,9 @@ if [ -e "$HOME/.aliases" ]; then
   source "$HOME/.aliases"
 fi
 
+# load in aliases
+source ~/.aliases
+
 # bring in history options from oh-my-zsh
 setopt hist_ignore_dups # ignore duplication command history list
 setopt share_history # share command history data
