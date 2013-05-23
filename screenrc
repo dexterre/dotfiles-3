@@ -69,7 +69,7 @@ hardstatus alwayslastline
 # The vt100 description does not mention "dl". *sigh*
 termcapinfo vt100 dl=5\E[M
 
-# Appearance  yoshikaw debian wheezy TOP !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Appearance  yoshikaw debian wheezy
 #-------------------------------------------------------------------------------
 # tab like hardstatus, and caption shows un-focused window clearly
 caption always "%?%F%{Wk}%:%{KW}%?%?%E%{Yr}%? %n %?%F%:%{Kw}%?%{.r}%f%{-}%?%F%{wk}%:%{.k}%?%e %?%F%{gW}%{Yr}%:%{.w}%{yr}%?%?%P%:%{-}%? %?%E%{.r}%?%t%040=%?%F%{Yr}%:%{yr}%?%?%P<< copy/scrollback mode. >>%:%{-}%{.k}%? %h%="
